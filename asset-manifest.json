@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/buscador-app/static/css/main.094c0367.css",
+    "main.js": "/buscador-app/static/js/main.492f24a6.js",
+    "index.html": "/buscador-app/index.html",
+    "main.094c0367.css.map": "/buscador-app/static/css/main.094c0367.css.map",
+    "main.492f24a6.js.map": "/buscador-app/static/js/main.492f24a6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.094c0367.css",
+    "static/js/main.492f24a6.js"
+  ]
+}
